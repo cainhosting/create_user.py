@@ -13,6 +13,7 @@ Changes you will need to make:
 
 Update custom_template={templatename}.conf  > Find your custom nginx template here: /usr/local/directadmin/custombuild/custom/nginx_templates/
 Update endpoint = f"https://<your_directadmin_url>:2222/CMD_API_ACCOUNT_USER"
+"package": "Package_Name",
 "ip": "IP Assigned To User Accounts",
 
 admin_username = "admin_username"
