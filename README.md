@@ -1,5 +1,5 @@
 # create_user.py
-Create a DirectAdmin user account and assign a custom nginx template using python.
+Create a DirectAdmin user account and assign a custom nginx template using python via CLI.
 
 Create File create_user.py
 chmod +x create_user.py
